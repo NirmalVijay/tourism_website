@@ -12,6 +12,7 @@ ADVENTURE - "Where Every Journey Begins"
  ## 🔗 To see the project
 [ADVENTURE](http://127.0.0.1:5500/tourism-website-main/)
 [GitHub Repository](https://github.com/NirmalVijay/tourism_website)
+[Local Server](http://127.0.0.1:5500/)
 
 
 ## 👓 Preview
